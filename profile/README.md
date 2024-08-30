@@ -1,5 +1,6 @@
-# Smoodi 프레임워크
 <img src="../smoodi_banner.png" alt="Smoodi Banner">
+
+# Smoodi 프레임워크
 by Daybreak312
 
 
