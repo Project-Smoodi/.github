@@ -43,8 +43,8 @@ _build.gradle (Groovy)_
 ```gradle
 repositories {
     maven {
-        name = "GitHubPackages"
-        url = uri("https://maven.pkg.github.com/Project-Smoodi/Smoodi-Core")
+        name = 'GitHubPackages'
+        url = 'https://maven.pkg.github.com/Project-Smoodi/Smoodi-Core'
     }
     mavenCentral() // Maven Repository를 통해 배포된 다른 의존성을 의존하기 위해 필요합니다. 대다수의 경우 필요하지만, 필요하지 않을 경우 제거하세요.
 }
