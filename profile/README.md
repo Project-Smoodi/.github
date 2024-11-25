@@ -17,7 +17,9 @@ Smoodi aims to deliver a streamlined and highly productive development environme
 <br/>
 
 # Getting Started
-  
+
+<br/>
+
 ## Adding Smoodi Dependencies  
 
 To add Smoodi to your project, include the following dependency in your `dependencies` block.
