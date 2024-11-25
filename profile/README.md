@@ -1,3 +1,8 @@
+You can switch branches to view documents in different languages.
+
+> [Korean Docs](https://github.com/Project-Smoodi/.github/blob/Korean/profile/README.md) |
+> [English Docs](https://github.com/Project-Smoodi/.github/English/profile/README.md)
+
 ---
 
 <img src="../smoodi_banner.png" alt="Smoodi Banner">
